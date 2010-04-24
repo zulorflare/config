@@ -1,0 +1,5 @@
+XXkb.xpm.path: /usr/share/xxkb/
+XXkb.mainwindow.enable: false
+XXkb.button.enable: false
+XXkb.controls.add_when_change: true
+XXkb.controls.focusout: true

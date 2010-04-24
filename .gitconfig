@@ -1,0 +1,15 @@
+[user]
+	name = Konstantin S. Kazarin
+	email = zulorflare@gmail.com
+[merge]
+	tool = vimdiff
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+	dt = difftool
+[diff]
+	tool = vimdiff
